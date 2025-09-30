@@ -4,6 +4,8 @@ description: This is a supporting file for lecture 3, and contains program code.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/f62e012e6f43c08919f1aca4d5844fa4_navion_1.m
 file_size: 2269
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This is a supporting file for lecture 8, and contains program code.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/a16d113dc2d69b690559418f0b77d9d3_lecture11.m
 file_size: 6935
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

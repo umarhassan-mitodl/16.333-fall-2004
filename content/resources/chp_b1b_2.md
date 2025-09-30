@@ -5,6 +5,8 @@ description: A B-1 Lancer performs a fly-by during a firepower demonstration in 
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/c60f024a7fcdef3746976beb79d1834b_chp_b1b_2.jpg
 file_size: 57312
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

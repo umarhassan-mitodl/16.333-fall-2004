@@ -6,6 +6,8 @@ description: 'Summary of the topics covered in lecture:
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/212c550726b27fcf8925ed1cfcf2cca7_lecture_17_sys_2.pdf
 file_size: 888767
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

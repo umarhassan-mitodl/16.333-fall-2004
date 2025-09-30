@@ -4,6 +4,8 @@ description: 4 problems based on aerosonde vehicle.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/c1e8477a43baad579a353fa0ae950af1_hw4.pdf
 file_size: 123346
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

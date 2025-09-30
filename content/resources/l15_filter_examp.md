@@ -5,6 +5,8 @@ description: This is a supporting file for lecture 15, and contains details abou
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/fb8395efd40e5f4a79b98fda10c85de3_l15_filter_examp.pdf
 file_size: 332828
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

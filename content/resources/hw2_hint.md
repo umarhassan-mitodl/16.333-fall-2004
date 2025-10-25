@@ -4,8 +4,6 @@ description: This is a supporting file for homework 2.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/3a7d7464367c9dec38946768e949f5c1_hw2_hint.pdf
 file_size: 21401
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

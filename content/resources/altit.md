@@ -4,8 +4,6 @@ description: This is a supporting file for lecture 13, and contains program code
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/ec70b18b58265170101117765a5924b0_altit.mdl
 file_size: 33070
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

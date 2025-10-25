@@ -4,8 +4,6 @@ description: 5 problems based on stability and control.
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/9cd418226d1b336c373efe3a60a9dcaf_hw1.pdf
 file_size: 263500
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

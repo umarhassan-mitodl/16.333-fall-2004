@@ -5,8 +5,6 @@ description: This is a supporting file for lecture 17, and contains details of t
 file: /courses/16-333-aircraft-stability-and-control-fall-2004/945d5fdc1d10fad2fd1698966a591b9e_l17_page_king_sm.pdf
 file_size: 881447
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
